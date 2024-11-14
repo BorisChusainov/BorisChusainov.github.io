@@ -1,0 +1,59 @@
+#li1 {
+    font: italic bold 32px 'Segoe UI';
+    color: cyan;
+    list-style-type: decimal;
+    text-decoration: underline overline;
+}
+
+h1 {
+    font: 45px 'Almdudler';
+    font-style: normal;
+    text-align: center;
+}
+
+#li2 {
+    font: oblique 200 1.5em Impact;
+    text-align: center;
+    color: brown;
+    list-style-type: armenian;
+    text-decoration: underline overline;
+}
+#li3 {
+    font: 300 2vw serif;
+    text-align: right;
+    color: rgb(180, 168, 153);
+    list-style-type: georgian;
+    text-decoration: line-through;
+}
+#li4 {
+    margin-top: 30px;
+    text-indent: 4%;
+    text-decoration: underline overline;
+    list-style: lower-greek;
+    color: chocolate;
+}
+#li5 {
+    font: bold 1vw monospace;
+    text-decoration: underline;
+    list-style-type: square;
+    color: chartreuse;
+    text-align: end;
+}
+#li6 {
+    font: italic lighter 4em Algerian;
+    list-style-type: armenian;
+    color: darksalmon;
+    text-decoration: overline;
+    text-align: center;
+    margin-top: 500px;
+}
+img {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    height: 300px;
+}
+p {
+    font-family: 'Old English Text MT';
+    font-size: 45px;
+}
